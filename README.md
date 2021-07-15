@@ -4,9 +4,9 @@ Some of the most critical competencies that students need to acquire to become e
 
 This repository includes the following material we use to teach control engineering  at the Pontifical Catholic University of Valparaiso in Chile:
 - **Factory F1: tank liquid level control**.
-  - [Simulink model](https://github.com/rheradio/3DFactoySimulationsForControlEngineering/tree/master/Simulink_resources)
-  - [FACTORY I/O scene](https://github.com/rheradio/3DFactoySimulationsForControlEngineering/blob/master/FactoryIO_resources/FactoryIO/LevelControl_PID.factoryio)
-  - [TIA Portal program for PLC Siemens S7-1200](https://github.com/rheradio/3DFactoySimulationsForControlEngineering/blob/master/FactoryIO_resources/TIA_PORTAL/pid_tank.ap15_1)
+  - [Simulink model](https://github.com/rheradio/FactoryIO/tree/main/Simulink_resources)
+  - [FACTORY I/O scene](https://github.com/rheradio/FactoryIO/blob/main/FactoryIO_resources/FactoryIO/LevelControl_PID.factoryio)
+  - [TIA Portal program for PLC Siemens S7-1200](https://github.com/rheradio/FactoryIO/blob/main/FactoryIO_resources/TIA_PORTAL/pid_tank.ap15_1)
 - **Factory F2: industrial conveyor belt**.
-  - [FACTORY I/O scene](https://github.com/rheradio/3DFactoySimulationsForControlEngineering/blob/master/FactoryIO_resources/FactoryIO/ConveyorBelt.factoryio)
-  - [TIA Portal program for PLC Siemens S7-1200](https://github.com/rheradio/3DFactoySimulationsForControlEngineering/blob/master/FactoryIO_resources/TIA_PORTAL/conveyorbelt.ap15_1)
+  - [FACTORY I/O scene](https://github.com/rheradio/FactoryIO/blob/main/FactoryIO_resources/FactoryIO/ConveyorBelt.factoryio)
+  - [TIA Portal program for PLC Siemens S7-1200](https://github.com/rheradio/FactoryIO/blob/main/FactoryIO_resources/TIA_PORTAL/conveyorbelt.ap15_1)
